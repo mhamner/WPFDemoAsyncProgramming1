@@ -1,0 +1,15 @@
+C:\Users\mark.hamner\source\repos\WPFDemoAsyncProgramming1\WPFDemoAsyncProgramming1\bin\Debug\WPFDemoAsyncProgramming1.exe.config
+C:\Users\mark.hamner\source\repos\WPFDemoAsyncProgramming1\WPFDemoAsyncProgramming1\bin\Debug\WPFDemoAsyncProgramming1.exe
+C:\Users\mark.hamner\source\repos\WPFDemoAsyncProgramming1\WPFDemoAsyncProgramming1\bin\Debug\WPFDemoAsyncProgramming1.pdb
+C:\Users\mark.hamner\source\repos\WPFDemoAsyncProgramming1\WPFDemoAsyncProgramming1\obj\Debug\MainWindow.g.cs
+C:\Users\mark.hamner\source\repos\WPFDemoAsyncProgramming1\WPFDemoAsyncProgramming1\obj\Debug\App.g.cs
+C:\Users\mark.hamner\source\repos\WPFDemoAsyncProgramming1\WPFDemoAsyncProgramming1\obj\Debug\WPFDemoAsyncProgramming1_MarkupCompile.cache
+C:\Users\mark.hamner\source\repos\WPFDemoAsyncProgramming1\WPFDemoAsyncProgramming1\obj\Debug\WPFDemoAsyncProgramming1_MarkupCompile.lref
+C:\Users\mark.hamner\source\repos\WPFDemoAsyncProgramming1\WPFDemoAsyncProgramming1\obj\Debug\MainWindow.baml
+C:\Users\mark.hamner\source\repos\WPFDemoAsyncProgramming1\WPFDemoAsyncProgramming1\obj\Debug\WPFDemoAsyncProgramming1.g.resources
+C:\Users\mark.hamner\source\repos\WPFDemoAsyncProgramming1\WPFDemoAsyncProgramming1\obj\Debug\WPFDemoAsyncProgramming1.Properties.Resources.resources
+C:\Users\mark.hamner\source\repos\WPFDemoAsyncProgramming1\WPFDemoAsyncProgramming1\obj\Debug\WPFDemoAsyncProgramming1.csproj.GenerateResource.cache
+C:\Users\mark.hamner\source\repos\WPFDemoAsyncProgramming1\WPFDemoAsyncProgramming1\obj\Debug\WPFDemoAsyncProgramming1.csproj.CoreCompileInputs.cache
+C:\Users\mark.hamner\source\repos\WPFDemoAsyncProgramming1\WPFDemoAsyncProgramming1\obj\Debug\WPFDemoAsyncProgramming1.exe
+C:\Users\mark.hamner\source\repos\WPFDemoAsyncProgramming1\WPFDemoAsyncProgramming1\obj\Debug\WPFDemoAsyncProgramming1.pdb
+C:\Users\mark.hamner\source\repos\WPFDemoAsyncProgramming1\WPFDemoAsyncProgramming1\obj\Debug\WPFDemoAsyncProgramming1.csprojAssemblyReference.cache
